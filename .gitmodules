@@ -1,3 +1,0 @@
-[submodule "object_detection/yolov9"]
-	path = object_detection/yolov9
-	url = https://github.com/WongKinYiu/yolov9.git
